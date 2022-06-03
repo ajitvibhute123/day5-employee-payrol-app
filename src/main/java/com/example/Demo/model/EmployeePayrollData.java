@@ -1,7 +1,6 @@
 package com.example.Demo.model;
 
 
-
 public class EmployeePayrollData {
 
 	private int empId;
@@ -17,7 +16,7 @@ public class EmployeePayrollData {
 		this.empName = empName;
 		this.empSalary = empSalary;
 	}
-
+	
 	public int getEmpId() {
 		return empId;
 	}
